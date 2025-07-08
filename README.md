@@ -16,3 +16,13 @@ This project created a real-time system that translates hand signs (A-Z) into te
 * MediaPipe
 * OpenCV
 * scikit-learn
+
+# My Awesome Project
+
+## 📈 Demo
+
+A screenshot of the final output:
+
+![Final Output Screenshot](assests/Letter - A.jpg)
+![Final Output Screenshot](assests/Letter - U.jpg)
+![Final Output Screenshot](assests/Number - 9.jpg)
