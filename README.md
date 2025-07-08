@@ -19,5 +19,4 @@ This project created a real-time system that translates hand signs (A-Z) into te
 
 ## 📈 Demo
 
-![Letter A](https://raw.githubusercontent.com/zuveriya-shaik/Sign_Language_Detection/master/assests/Letter%20-%20A.jpg)
-
+<img src="https://raw.githubusercontent.com/zuveriya-shaik/Sign_Language_Detection/master/assests/Letter%20-%20A.jpg" alt="Hand Gesture for Letter A" width="400"/>
