@@ -22,6 +22,4 @@ This project created a real-time system that translates hand signs (A-Z) into te
 ## 📈 Demo
 
 A screenshot of the final output:
-assests/Letter - A.jpg
-assests/Letter - U.jpg
 ![Final Output Screenshot](assests/Letter - A.jpg)
