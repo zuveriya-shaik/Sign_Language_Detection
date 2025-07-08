@@ -17,9 +17,18 @@ This project created a real-time system that translates hand signs (A-Z) into te
 * OpenCV
 * scikit-learn
 
-# My Project
-
 ## 📈 Demo
 
-A screenshot of the final output:
-![Final Output Screenshot](assests/Letter - A.jpg)
+Here are screenshots of the final output:
+
+**Screenshot of Letter A:**
+![Hand Gesture for Letter A](assests/Letter - A.jpg)
+
+**Screenshot of Letter U:**
+![Hand Gesture for Letter U](assests/Letter - U.jpg)
+
+**Screenshot of Number 9:**
+![Hand Gesture for Number 9](assests/Number - 9.jpg)
+
+---
+
