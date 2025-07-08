@@ -20,11 +20,8 @@ This project created a real-time system that translates hand signs (A-Z) into te
 
 Here are screenshots of the final output:
 
-**Screenshot of Letter A:**
-<img src="https://raw.githubusercontent.com/zuveriya-shaik/Sign_Language_Detection/master/assests/Letter%20-%20A.jpg" alt="Hand Gesture for Letter A" width="300"/>
+<img src="https://raw.githubusercontent.com/zuveriya-shaik/Sign_Language_Detection/master/assests/Letter%20-%20A.jpg" alt="Hand Gesture for Letter A" width="100"/>
 
-**Screenshot of Letter U:**
-<img src="https://raw.githubusercontent.com/zuveriya-shaik/Sign_Language_Detection/master/assests/Letter%20-%20U.jpg" alt="Hand Gesture for Letter U" width="300"/>
+<img src="https://raw.githubusercontent.com/zuveriya-shaik/Sign_Language_Detection/master/assests/Letter%20-%20U.jpg" alt="Hand Gesture for Letter U" width="100"/>
 
-**Screenshot of Number 9:**
-<img src="https://raw.githubusercontent.com/zuveriya-shaik/Sign_Language_Detection/master/assests/Number%20-%209.jpg" alt="Hand Gesture for Number 9" width="300"/>
+<img src="https://raw.githubusercontent.com/zuveriya-shaik/Sign_Language_Detection/master/assests/Number%20-%209.jpg" alt="Hand Gesture for Number 9" width="100"/>
